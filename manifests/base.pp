@@ -1,4 +1,4 @@
-## manifests\default.pp
+## manifests\base.pp
 ## This is the main manifest.
 
 ## Define some required parameters
